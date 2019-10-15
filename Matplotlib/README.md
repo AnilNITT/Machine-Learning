@@ -1,1 +1,1 @@
-there we learn how to plot difrrent2 graphs.
+there we learn how to plot different graphs.
